@@ -2,8 +2,8 @@ import fs from 'fs'
 function handler(m, { conn }) {
 let text = `
 *𝘾𝙤𝙣𝙩𝙖𝙘𝙩𝙤 | 𝘾𝙤𝙣𝙩𝙖𝙘𝙩* 
-*Wa.me/13068021966 (BOT)*
 *Wa.me/50488293090 (BOT)*
+*Wa.me/13068021966 (BOT)*
 *https://www.instagram.com/gata_dios*
 `.trim()   
 conn.reply(m.chat, text, m, {
